@@ -1,2 +1,2 @@
 # Predictive_Maintenance
-This project is conatains the main steps of data science (preprocessing, analysis, satistics, feature selection, machine learning models) in order to predicted the remaining useful life of a machine.)
+The project on Predictive Maintenance involves several essential stages of data science, such as preprocessing, analysis, statistics, feature selection, and machine learning models, to anticipate the remaining useful life of a machine. Although it may appear to be a binary classification project with the status of the machine as the target variable, it is, in fact, a regression project that requires the creation of a target variable known as RUL or Remaining Useful Life.
